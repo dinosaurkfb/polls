@@ -1,0 +1,9 @@
+TAGS
+*.pyc
+*.log*
+*.pid
+*~
+#*#
+*.egg-info
+*.rdb
+*.sock
